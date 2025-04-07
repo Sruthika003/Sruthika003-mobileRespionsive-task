@@ -1,6 +1,6 @@
 
 function formPage() {
     setTimeout(() => {
-        window.location.href = "/mobileTask_html/form.html";
+        window.location.href = "form.html";
     }, 1000); 
 }
