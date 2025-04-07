@@ -1,0 +1,21 @@
+
+#formContainer {
+    background-color: mediumblue;
+    color: white;
+}
+
+.bg-mediumblue {
+    background-color: mediumblue;
+}
+
+.text-mediumblue {
+    color: mediumblue;
+}
+
+/* Media query for small screens */
+@media only screen and (max-width: 380px) {
+    #formContainer {
+        background-color: mediumblue;
+    color: white;
+    }
+}
